@@ -1,0 +1,28 @@
+_repo: Theology-and-the-Social-ConsciousnessTheology--2nd-ed.-_37531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Henry Churchill
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '38901'
+    url: http://www.gutenberg.org/2009/agents/38901
+description: ''
+gutenberg_issued: '2011-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian sociology'
+- !lcc 'BR'
+- !lcsh 'Theology, Doctrinal -- History -- 20th century'
+title: "Theology and the Social Consciousness\r\nA Study of the Relations of the Social\
+  \ Consciousness to Theology (2nd ed.)"
+url: http://www.gutenberg.org/ebooks/37531
